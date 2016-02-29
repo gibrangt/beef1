@@ -1,0 +1,21 @@
+/*
+Theme Name: Beef Market
+Theme URI: http://www.briocreativo.com
+Description: Tema de beefmarket
+Author: Gibran
+Author URI: http://www.briocreativo.com
+Version: 1.0
+*/
+
+@import url('css/reset.css');
+@import url('css/reticula.css');
+@import url('css/editorial.css');
+@import url('css/secciones.css');
+@import url('css/formas.css');
+@import url('css/layout.css');
+
+html, body, {
+	height: 100%;
+	font-family: helvetica;
+}
+

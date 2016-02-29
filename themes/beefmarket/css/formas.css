@@ -1,0 +1,23 @@
+.marco {
+	border: 15px solid transparent;
+    -webkit-border-radius: url(marco2-mapa.png) 70 round;
+    border-image: url(marco2-mapa.png) 70 round;
+    margin: 5px;
+}
+
+.fondo {
+	padding: 10px 15px;
+	background-color: #FFF;
+	border: 2px solid #FFF;
+	-webkit-border-radius: 2px;
+}
+
+.linebuttom {
+	border-bottom: 2px solid #3c2415;
+	-webkit-border-radius: 2px;
+}
+
+.division {
+	border-top: 2px solid #FFF;
+	-webkit-border-radius: 2px;
+}

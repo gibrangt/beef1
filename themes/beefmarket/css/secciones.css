@@ -1,0 +1,31 @@
+.home {
+    background: #d7bc8a;  
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    text-align: center;
+    padding: 20% 0;
+    box-sizing: border-box;
+}
+
+.full-height{
+	height: 100%;
+	padding: 10px 0;
+
+}
+
+.menu-item{
+	list-style: none;
+}
+
+ul.products li{
+float: left;
+list-style-type: none;
+
+}
+
+ul.products li img{
+width: 150px;
+height: 120px;
+
+}
